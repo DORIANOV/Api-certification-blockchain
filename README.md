@@ -1,4 +1,5 @@
 # 🔐 Blockchain Copyright Certification pour entreprise
+Ce projet est encore en cours de développement et est très instable.
 
 > Certifiez la propriété de vos œuvres sur la blockchain Polygon en quelques clics.
 
