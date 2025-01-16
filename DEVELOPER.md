@@ -157,13 +157,6 @@ docker-compose down
    npm run dev:debug
    ```
 
-## Contribution
-
-1. Fork le projet
-2. Créer une branche (`git checkout -b feature/AmazingFeature`)
-3. Commit les changements (`git commit -m 'Add AmazingFeature'`)
-4. Push la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une Pull Request
 
 ## Support Développeur
 
